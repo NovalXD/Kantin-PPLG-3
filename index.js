@@ -96,7 +96,7 @@ products.forEach(e => {
                             <i class='bx bxs-cart-add'></i>
                         </button>
                         <button class="btn-flat btn-hover btn-cart-add">
-                            // <a href="products.html</a>
+                           
                             <i class='bx bxs-heart'></i>
                         </button>
                     </div>
